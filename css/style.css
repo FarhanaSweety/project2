@@ -1,0 +1,57 @@
+.container{
+	width: 1000px;
+    height: 800px;
+    background: yellow;
+    margin: 0 auto;
+}
+.header{
+    width: 100%;
+    height: 50px;
+    background: red;
+}
+.logo{
+	width: 200px;
+    height: 50px;
+    background: black;
+    float: left;
+}
+.menu{
+	width: 800px;
+    height: 50px;
+    background: red;
+    float: left;
+}
+.cntentpart{
+    width: 100%;
+    height: 700px;
+    background: blue;
+}
+.part-one{
+    width: 200px;
+    height: 700px;
+    background: black;
+    float: left;
+}   
+.part-two{
+    width: 400px;
+    height: 300px;
+    background: orange;
+    float: left;
+}
+.part-three{
+    width: 400px;
+    height: 300px;
+    background: #8BC34A;
+    float: left;
+}
+.part-four{
+	width: 800px;
+    height: 400px;
+    background: brown;
+    float: left;
+}
+.footer{
+    width: 1000px;
+    height: 50px;
+    background: #FF9800;
+}
